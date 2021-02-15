@@ -1,6 +1,9 @@
 # Pattern-Recognition
 
-This repository contains MATLAB files that implement some machine learning algorithms in the book "Pattern Classification (2nd Edition)" written by Duda, R. O., Hart, P. E. and Stork, D. G. (2000).
+This repository contains MATLAB files that implement the following machine learning algorithms 
+by reference to the book "Pattern Classification (2nd Edition)" written by Duda, R. O., Hart, P. E. and Stork, D. G. (2000).
+
+1. Discriminant Functions
 
 ## References
 
