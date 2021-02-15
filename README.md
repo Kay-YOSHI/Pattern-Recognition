@@ -12,6 +12,8 @@ I manually coded rather than using machine learning related built-in functions t
 
 3. Perceptron (Ch.5.5, Batch and fixed-increment single-sample perceptron, Minimum Squared Error procedure and Least Mean Squared procedure)
 
+  - 
+
 ## References
 
 Duda, R. O., Hart, P.E. and Stork, D. G.: "Pattern Classification (2nd Edition)," Wiley-Interscience (2000)
