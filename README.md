@@ -6,8 +6,8 @@ I manually coded rather than using machine learning related built-in functions t
 
 1. Discriminant Functions (Ch.2.6)
 1. Nonparametric Density Estimation (Ch.4)
-  1. Parzen windows
-  1. k-nearest neighbor estimation
+    1. Parzen windows
+    1. k-nearest neighbor estimation
 
 1. Perceptron (Ch.5.5, Batch and fixed-increment single-sample perceptron, Minimum Squared Error procedure and Least Mean Squared procedure)
 
