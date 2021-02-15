@@ -4,4 +4,4 @@
 
 ## References
 
-Duda, R. O., Hart, P.E. and Stork, D. G.: "Pattern Classification," Wiley-Interscience (2000)
+Duda, R. O., Hart, P.E. and Stork, D. G.: "Pattern Classification (2nd Edition)," Wiley-Interscience (2000)
