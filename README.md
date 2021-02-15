@@ -5,7 +5,11 @@ by reference to the book "Pattern Classification (2nd Edition)" written by Duda,
 I manually coded rather than using machine learning related built-in functions to deepen understanding of each algorithm. 
 
 1. Discriminant Functions (Ch.2.6)
-2. Nonparametric Density Estimation (Ch.4, Parzen windows and k-nearest neighbor estimation)
+2. Nonparametric Density Estimation (Ch.4)
+
+- Parzen windows
+- k-nearest neighbor estimation
+
 3. Perceptron (Ch.5.5, Batch and fixed-increment single-sample perceptron, Minimum Squared Error procedure and Least Mean Squared procedure)
 
 ## References
