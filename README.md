@@ -2,6 +2,7 @@
 
 This repository contains MATLAB files that implement the following machine learning algorithms 
 by reference to the book "Pattern Classification (2nd Edition)" written by Duda, R. O., Hart, P. E. and Stork, D. G. (2000).
+I use MATLAB R2018a.
 
 1. Discriminant Functions (Ch.2.6)
 2. Nonparametric Density Estimation (Ch.4, Parzen windows and k-nearest neighbor estimation)
