@@ -8,7 +8,7 @@ I manually coded rather than using machine learning related built-in functions t
 1. Nonparametric Density Estimation (Ch.4)
     - Parzen windows
     - k-nearest neighbor estimation
-1. Perceptron (Ch.5.5, Batch and fixed-increment single-sample perceptron, Minimum Squared Error procedure and Least Mean Squared procedure)
+1. Perceptron (Ch.5.5)
     - Batch perceptron
     - Fixed-increment single-sample perceptron
     - Minimum squared error (MSE) procedure
