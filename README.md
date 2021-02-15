@@ -6,6 +6,7 @@ I use MATLAB R2018a.
 
 1. Discriminant Functions (Ch.2.6)
 2. Nonparametric Density Estimation (Ch.4, Parzen windows and k-nearest neighbor estimation)
+3. Perceptron (Ch.5.5, Batch and fixed-increment single-sample perceptron, Minimum Squared Error procedure and Least Mean Squared procedure)
 
 ## References
 
