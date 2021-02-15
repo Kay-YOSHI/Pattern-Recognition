@@ -6,7 +6,6 @@ I manually coded rather than using machine learning related built-in functions t
 
 1. Discriminant Functions (Ch.2.6)
 1. Nonparametric Density Estimation (Ch.4)
-
   1. Parzen windows
   1. k-nearest neighbor estimation
 
