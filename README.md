@@ -1,6 +1,6 @@
 # Pattern-Recognition
 
-This repository contains MATLAB (ver. R2018a) files that implement the following machine learning algorithms 
+This repository contains MATLAB (ver. R2018a) files that implement the following selected machine learning algorithms 
 by reference to the book "*Pattern Classification (2nd Edition)*" written by Duda, R. O., Hart, P. E. and Stork, D. G. (2000).
 I manually coded all algorithms to deepen understanding of them rather than using machine learning related built-in functions.
 
