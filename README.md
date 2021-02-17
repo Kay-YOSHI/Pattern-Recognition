@@ -17,7 +17,6 @@ I manually coded all algorithms to deepen understanding of them rather than usin
     - Linear SVM
     - Soft margin
     - Kernel extension
-3. Multilayer Neural Network (Ch.6)
 
 ## References
 
