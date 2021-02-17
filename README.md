@@ -13,7 +13,7 @@ I manually coded all algorithms to deepen understanding of them rather than usin
     - Fixed-increment single-sample perceptron
     - Minimum squared error (MSE) procedure
     - The Widrow-Hoff or least mean squared (LMS) procedure
-1. Support Vector Machine (Ch.5.11)
+1. Support Vector Machines (Ch.5.11)
     - Linear SVM
     - Soft margin
     - Kernel extension
